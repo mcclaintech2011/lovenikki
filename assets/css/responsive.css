@@ -10,8 +10,8 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio
     body {
         font-size: 15px;
     }
-	
-    
+
+
 
 }
 
@@ -20,7 +20,7 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio
     html {
         font-size: 90%;
     }
-   
+
 
 
 }
@@ -30,7 +30,7 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio
         font-size: 80%;
     }
 	.navbar-default {
-    background-color:#ffc038;
+    background-color:#F1ADAD;
     border: transparent;
     padding:20px 0;
 	}
@@ -42,11 +42,11 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio
 	.navbar-default .navbar-toggle:hover {
 		background:#000;
 	}
-	
+
 	.navbar-default .navbar-toggle .icon-bar {
     background-color: white;
 	}
-	
+
 	homepage-style .unique-apps h2 {
     font-size: 20px;
 	}
@@ -61,14 +61,14 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio
     text-align: center;
 	}
 	.main-history .history-content .hst-btn{
-	 text-align: center;	
+	 text-align: center;
 	}
 	.homepage-style .slider-area {
     margin-top: 30px;
 	}
-	
-	
-   
+
+
+
 }
 
 
@@ -78,26 +78,26 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio
     html {
         font-size: 65%;
     }
-	
+
 	.homepage-style .unique-apps h2 {
     font-size: 20px;
 	}
 	.portfolio .portfolio-item h4 {
     font-size: 12px;
 	}
-	
+
 	.navbar-default .navbar-collapse, .navbar-default .navbar-form {
-		background:#ffc038;
+		background:#F1ADAD;
 		border:0;
 	}
 	.homepage-style .slider-area {
     margin-top: 30px;
 	}
-	
+
 	.supports-content .spt-btn{
 		text-align:center;
 	}
-   
+
 
 }
 
@@ -118,6 +118,5 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio
 	.portfolio .portfolio-item h4 {
     font-size: 10px;
 	}
-	
-}
 
+}
