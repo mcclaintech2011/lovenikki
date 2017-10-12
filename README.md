@@ -15,6 +15,11 @@
 [Love Nikki | Princess](https://mcclaintech2011.github.io/lovenikki/princess.html "Love Nikki | Princess")
 
 ####OTHER AREAS
+[Love Nikki | Other Areas](https://mcclaintech2011.github.io/lovenikki/other.html#competition "Love Nikki | Competition")
+
+[Love Nikki | Other Areas](https://mcclaintech2011.github.io/lovenikki/princess.html#stylist "Love Nikki | Stylist Arena")
+
+[Love Nikki | Other Areas](https://mcclaintech2011.github.io/lovenikki/princess.html# "Love Nikki | Stylist Association")
 
 ####EVENTS
 
