@@ -572,7 +572,7 @@ input:-ms-input-placeholder {
 .navbar-default {
     background-color:transparent;
     border:transparent;
-    padding-top: 70px;
+    padding-top: 25px;
 }
 
 .navbar {
