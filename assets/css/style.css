@@ -361,7 +361,7 @@ Button
 }
 .our-history {
     color: #ffffff;
-    background-color:#464646;
+    background-color:#3F2934;
     height:50px;
     width: 230px;
     text-transform: uppercase;
@@ -443,7 +443,7 @@ Section Title Bar CSS
     font-weight: 500;
     text-transform: uppercase;
     text-align:center;
-    background: #464646;
+    background: #3F2934;
     color: #fff;
     padding:10px 60px;
     display: inline;
@@ -588,7 +588,7 @@ input:-ms-input-placeholder {
     color:#fff;
 }
 .navbar-default .navbar-nav>li>a {
-    color:#464646;
+    color:#3F2934;
     font-size:14px;
     text-transform:uppercase;
     font-weight:600;
@@ -600,12 +600,12 @@ input:-ms-input-placeholder {
 .contact-number{
     font-size:12px;
     font-weight:600;
-    color:#464646;
+    color:#3F2934;
     margin-right:14px;
 }
 
 .menu-bg{
-    background:#F1ADAD;
+    background:#F1C3C5;
     padding:10px 0;
 }
 
@@ -613,11 +613,22 @@ input:-ms-input-placeholder {
 /*Home Page Style*/
 
 #home{
-    background-color:#F1ADAD;
-    color:#fff;
+    background-color:#F1C3C5;
+    color:#3F2934;
 }
 .homepage-style{
     padding-top:100px;
+}
+
+.homepage-style a{
+    color: #D87A88;
+    text-decoration: none;
+    font-weight: bold;
+}
+.homepage-style a:hover{
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
 }
 
 .homepage-style .top-arrow img{
@@ -641,7 +652,7 @@ input:-ms-input-placeholder {
 }
 
 .unique-apps .home-btn button{
-    background:#464646;
+    background:#3F2934;
     padding:15px 20px;
     color:#fff;
     font-size:16px;
@@ -656,7 +667,7 @@ input:-ms-input-placeholder {
     -o-box-shadow:2px 2px 2px 0 rgba(0,0,0, .5);
 }
 .unique-apps .home-btn button:hover{
-    background:#D67A84;
+    background:#D87A88;
     color:#fff;
 }
 .unique-apps .home-btn span i{
@@ -685,10 +696,10 @@ input:-ms-input-placeholder {
     font-size:18px;
     font-weight:bold;
     text-transform:uppercase;
-    color:#252525;
+    color:#363636;
 }
 .portfolio .portfolio-item .pt-btn{
-    background:#F1ADAD;
+    background:#3F2934;
     padding:18px 40px;
     color:#464646;
     font-weight:bold;
@@ -704,7 +715,7 @@ input:-ms-input-placeholder {
     -o-box-shadow:2px 2px 2px 0 rgba(0,0,0, .5);
 }
 .portfolio .portfolio-item .pt-btn:hover{
-    background:#464646;
+    background:#3F2934;
     color:#fff;
 }
 
@@ -1018,7 +1029,7 @@ input:-ms-input-placeholder {
 /*Footer Area*/
 
 #footer{
-    background:#363636;
+    background:#3F2934;
     color:#FFF;
 }
 .main-footer .footer-item h2{
@@ -1092,4 +1103,57 @@ a {
   color: #FFFFFF;
   text-decoration: none;
   font-weight: bold;
+}
+
+.guide-btn button{
+    background:#D87A88;
+    padding:15px 20px;
+    color:#fff;
+    font-size:16px;
+    transition:.5s;
+    -webkit-transition:.5s;
+    -moz-transition:.5s;
+    -o-transition:.5s;
+    box-shadow:2px 2px 2px 0 rgba(0,0,0, .5);
+    -webkit-box-shadow:2px 2px 2px 0 rgba(0,0,0, .5);
+    -moz-box-shadow:2px 2px 2px 0 rgba(0,0,0, .5);
+    -ms-box-shadow:2px 2px 2px 0 rgba(0,0,0, .5);
+    -o-box-shadow:2px 2px 2px 0 rgba(0,0,0, .5);
+}
+.guide-btn button:hover{
+    background:#3F2934;
+    color:#fff;
+}
+.guide-btn span i{
+    margin-left:5px;
+    font-size:20px;
+}
+.guide-btn a {
+  color: #FFF;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.guide-small-btn button{
+    border-radius:0;
+    background:#D87A88;
+    color:#333;
+    font-size:18px;
+    font-weight:500;
+    padding:15px 15px;
+    box-shadow:2px 2px 2px 0 rgba(0,0,0, .5);
+    -webkit-box-shadow:2px 2px 2px 0 rgba(0,0,0, .5);
+    -moz-box-shadow:2px 2px 2px 0 rgba(0,0,0, .5);
+    -ms-box-shadow:2px 2px 2px 0 rgba(0,0,0, .5);
+    -o-box-shadow:2px 2px 2px 0 rgba(0,0,0, .5);
+}
+.guide-small-btn button:hover{
+    background:#3F2934;
+    color:#fff;
+}
+
+.guide-small-btn a{
+  color: #fff;
+  text-decoration: none;
+  font-weight: bolder;
 }
