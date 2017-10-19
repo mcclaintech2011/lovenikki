@@ -780,85 +780,12 @@ input:-ms-input-placeholder {
     margin-bottom:0;
 }
 .main-package .package-item{
-    padding:50px 0;
+    padding:20px 10px;
     border:1.5px solid #F1ADAD;
 }
-.main-package .package-item.basic {
-
-    color:#b3b3b3;
-}
-.main-package .package-item.standard h5{
-
-    color:#f26c4f;
-    font-size:27px;
-
-}
-.package-item.standard ul li{
-    color:#363636;
-    font-weight:bold;
-}
-.package-item.standard .package-bottom-area h3{
-    color:#f26c4f;
-    font-weight:600;
-    font-size: 50px;
-    margin-top: -4px;
-}
-.package-item.standard .package-bottom-area h3 span{
-    color:#f26c4f;
-}
-.package-item.standard .pkg-btn a{
-    background:#f26c4f;
-    padding: 15px 44px;
-}
-.package-item.standard .pkg-btn a:hover{
-    background:#F1ADAD;
-    color:#fff;
-}
-.package-item.premium h5{
-
-    color:#F1ADAD;
-}
-.package-item.premium ul li{
-    color:#b3b3b3;
-}
-
-.package-item.premium .package-bottom-area h3{
-    color:#F1ADAD;
-    font-weight:600;
-}
-
-.package-item.premium .package-bottom-area h3 span{
-    color:#F1ADAD;
-    font-weight:normal;
-}
-
-.package-item.premium .pkg-btn a{
-    background:#F1ADAD;
-}
-
-.package-bottom-area h3{
-    padding:30px 0 20px 0;
-    font-size:35px;
-    font-weight:300;
-}
-.package-bottom-area h3 span{
-    font-size:25px;
-}
-.package-item .pkg-btn a{
-    background:#a5a5a5;
-    padding:10px 40px;
-    color:#fff;
-    font-weight:600;
-}
-.package-item .pkg-btn a:hover{
-    background:#f26c4f;
-    color:#fff;
-    font-weight:500;
-}
-
 
 .main-package .package-item ul li{
-    border-bottom:1.5px solid #ffd06c;
+    border-bottom:1.5px solid #3F2934;
     font-size:16px;
     padding:10px 0;
 }
